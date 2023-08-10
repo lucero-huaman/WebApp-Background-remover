@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>WebApp removedora de fondos</h1>
+
+    <h2>Instalar</h2>
+    <h3>Crear entorno virtual</h3>
+    <p>
+        Es una buena práctica trabajar con entornos virtuales para mantener tus dependencias de proyecto separadas y organizadas. 
+        <br>Para configurar un entorno virtual se deben seguir los siguientes pasos:<br>
+        Abrir una terminal dentro de Visual Studio. Se puede realizar ello seleccionando "Terminal" en el menú "Ver".<br>
+        Ejecuta el siguiente comando para crear un nuevo entorno virtual:
+
+        python -m venv venv
+
+        Se activa el entorno virtual con los siguientes comandos:<br>
+        
+        venv\Scripts\activate
+
+    </p>
+    <h2>Instalar Flask </h2>
+    <p>
+        Una vez activado el entorno virtual para crear la aplicación web se usará Flask empleando lso siguientes comandos en la terminal.
+
+        pip install flask
+    </p>
+    <h3>Instalar librerías</h3>
+    <p>
+        Para el procesamiento de imágenes se usará rembg, la cual es una biblioteca de python que utiliza técnicas de aprendizaje automático y redes neuronales para realizar la segmentación semántica de imágenes y detectar el objeto que se debe conservar. <br>
+        Para poder instalarla se usarán los siguiente comandos.
+
+        pip install rembg
+
+    </p>
+    <h2>Web</h2>
+    <h3>Interfaz principal</h3>
+    <p>
+        Se diseñó la interfaz en figma, para el frotn se uso HTML y CSS, mientras que para la parte lógica
+        se uso python con ayuda de Flask.
+    </p>
+    <img src="https://iili.io/HDJHye1.jpg" alt="interfaz principal" border="0">
+    <h3>Carga de imágenes</h3>
+    <p>
+        Las imágenes pueden ser subidas arrastrando estas a la zona señalada o dando click a Seleccionar archivo, una vez
+        realizado ello se da click a Remover fondo.
+    </p>
+    <img src="https://iili.io/HDJqPiF.jpg" alt="carga de imagen 1" border="0">
+    <img src="https://iili.io/HDJqbNp.jpg" alt="carga de imagen 2" border="0">
+
+    <h3>Resultados</h3>
+    <p>Se puede observar el antes y después de las pruebas realizadas.</p>
+    <p>Prueba 1</p>
+    <img src="https://iili.io/HDJBBb2.png" alt="a d prueba 1" border="0">
+    <br>
+    <p>Prueba 2</p>
+    <img src="https://iili.io/HDJB55x.png" alt="a d prueba 2" border="0">
+
+</body>
+</html>
