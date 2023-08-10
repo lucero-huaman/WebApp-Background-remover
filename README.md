@@ -46,7 +46,7 @@ Web
 
  Las imágenes pueden ser subidas arrastrando estas a la zona señalada o dando click a Seleccionar archivo, una vez realizado ello se da click a Remover fondo.
 
- ![carga de imagen 1](https://iili.io/HDJqPiF.jpg) ![carga de imagen 2](https://iili.io/HDJqbNp.jpg)
+ ![carga de imagen 2](https://iili.io/HDJqbNp.jpg) ![carga de imagen 1](https://iili.io/HDJqPiF.jpg) 
  
  ### Resultados
 
@@ -54,8 +54,8 @@ Se puede observar el antes y después de las pruebas realizadas.
 
 Prueba 1
   
- ![a d prueba 2](https://iili.io/HDJB55x.png)
+ ![a d prueba 1](https://iili.io/HDJBBb2.png)
 
 Prueba 2
 
- ![a d prueba 1](https://iili.io/HDJBBb2.png)
+ ![a d prueba 2](https://iili.io/HDJB55x.png)
