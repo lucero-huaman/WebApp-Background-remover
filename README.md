@@ -55,6 +55,7 @@ Se puede observar el antes y después de las pruebas realizadas.
 Prueba 1
   
  ![a d prueba 2](https://iili.io/HDJB55x.png)
+
 Prueba 2
 
  ![a d prueba 1](https://iili.io/HDJBBb2.png)
